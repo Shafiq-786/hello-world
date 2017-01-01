@@ -1,3 +1,6 @@
 # hello-world
 
-Hi people i love programming
+my first repository
+Hi everyone! This is Shafiq and i love programming.
+I wanna become a good and perfect computer engineer.
+Bubye!!!
